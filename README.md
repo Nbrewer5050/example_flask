@@ -1,9 +1,9 @@
-## Flask tutorial web app
+# Flask tutorial web app
 This repository hosts the app we've worked on during previous classes.
 It is not actually an online store despite the name, a lot of this code was written during a live session
 so it is not the cleanest.
 
-# Installing
+## Installing
 You should have a virtual environment somewhere on your machine that you'd like to use for this project
 prior to setting it up.
 In our case, our virtual environment was in the parent directory of wherever we had this project's folder or directory.
